@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1026"/>
+      <stop offset="100%" stop-color="#1a0830"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="1280" fill="url(#bg)"/>
+  <circle cx="360" cy="380" r="180" fill="#2d4cff" opacity="0.2"/>
+  <circle cx="420" cy="340" r="120" fill="#ff7a2f" opacity="0.18"/>
+  <rect x="110" y="150" width="500" height="620" rx="28" fill="#121938" stroke="#4fd5ff" stroke-width="4"/>
+  <text x="360" y="230" text-anchor="middle" font-family="Arial" font-size="46" font-weight="700" fill="#ffffff">FREE STYLE</text>
+  <text x="360" y="310" text-anchor="middle" font-family="Arial" font-size="28" fill="#9ecbff">Loading Concept Placeholder</text>
+  <text x="360" y="980" text-anchor="middle" font-family="Arial" font-size="24" fill="#dce8ff">Tip: Lightning Dash punishes ranged recovery.</text>
+  <rect x="120" y="1080" width="480" height="26" rx="13" fill="#24315f"/>
+  <rect x="120" y="1080" width="290" height="26" rx="13" fill="#4fd5ff"/>
+</svg>
