@@ -1,0 +1,13 @@
+.godot/
+.import/
+.export/
+.export_presets.cfg.bak
+android/build/
+*.tmp
+*.log
+*.apk
+*.aab
+*.keystore
+*.jks
+.DS_Store
+Thumbs.db
