@@ -1,0 +1,45 @@
+[gd_scene format=3]
+
+[node name="TouchHUD" type="CanvasLayer"]
+
+[node name="MoveStickArea" type="Control" parent="."]
+offset_left = 30.0
+offset_top = 430.0
+offset_right = 330.0
+offset_bottom = 720.0
+
+[node name="LightButton" type="Button" parent="."]
+offset_left = 930.0
+offset_top = 470.0
+offset_right = 1060.0
+offset_bottom = 600.0
+text = "L"
+
+[node name="HeavyButton" type="Button" parent="."]
+offset_left = 1080.0
+offset_top = 410.0
+offset_right = 1210.0
+offset_bottom = 540.0
+text = "H"
+
+[node name="SpecialButton" type="Button" parent="."]
+offset_left = 1090.0
+offset_top = 560.0
+offset_right = 1220.0
+offset_bottom = 690.0
+text = "S"
+
+[node name="BlockButton" type="Button" parent="."]
+offset_left = 800.0
+offset_top = 560.0
+offset_right = 915.0
+offset_bottom = 675.0
+text = "B"
+
+[node name="UltimateButton" type="Button" parent="."]
+offset_left = 920.0
+offset_top = 320.0
+offset_right = 1060.0
+offset_bottom = 450.0
+text = "ULT"
+visible = false
